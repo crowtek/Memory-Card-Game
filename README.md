@@ -1,6 +1,6 @@
 # Memory-Card-Game
 
-## Here you can find a easy JavaScript learning Project from me
+## Here you can find a JavaScript learning Project i did
 
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/57542570/157551384-0e931cc5-ddab-4a63-afa9-886e2b1dbf64.png)
@@ -12,7 +12,7 @@
 ## Functions
 
 
-In this Project I worked with Array functions to generate Random hex Values.<br><br>
+
  <br><br>
  
  ```JavaScript
